@@ -1,6 +1,8 @@
 ## Kicq messenger for Android
 
 ### Backend
+IP address: 195.66.114.37
+Source code and documentation:
 https://iserverd.khstu.ru/
 
 ### OSCAR protocol documentation
