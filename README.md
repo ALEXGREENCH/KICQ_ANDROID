@@ -1,5 +1,8 @@
 ## Kicq messenger for Android
 
+### Backend
+https://iserverd.khstu.ru/
+
 ### OSCAR protocol documentation
 - 2012: https://sites.google.com/site/imaderingcity/im-world/im-protocols/icq-protocol
 - 2009: http://web.archive.org/web/20120211200634/http://oscar.6dreams.net/
