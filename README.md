@@ -11,6 +11,7 @@ https://iserverd.khstu.ru/
 - 2009: http://web.archive.org/web/20120211200634/http://oscar.6dreams.net/
 - 2008: https://web.archive.org/web/20080308233204/http://dev.aol.com/aim/oscar/
 - 2005: http://iserverd.khstu.ru/oscar/
+- 2000: https://web.archive.org/web/20020515045132/http://oilcan.org/oscar/
 
 ### Licenses
 https://web.archive.org/web/20080828024530/http://dev.aol.com/aimclient/OpenAIM-license.pdf
